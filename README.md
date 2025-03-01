@@ -4,7 +4,7 @@
 
 🔗 **Demonstração:** [Acesse o site](https://meus-links-nine.vercel.app/)
 
-![Imagem de exemplo](./src/assets/readme.png)
+![Imagem de exemplo](./public/logo.avif)
 
 ---
 
